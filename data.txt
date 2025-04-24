@@ -1,0 +1,58 @@
+
+
+ABHISHEK SHIVANAND KARABANI 
+E-mail:abhishekskarabani23@gmail.com 
+Phone: +91 8217725579 
+Location: Bangalore, Karnataka, India 
+LinkedIn: linkedin.com/in/abhishek-karabani-0 
+ 
+ 
+ 
+ SUMMARY 
+Recent Computer Science graduate with a strong foundation in software development, object-
+oriented programming (OOP), and full-stack web development. Passionate about building scalable 
+applications and continuously learning new technologies. 
+EDUCATION 
+  Bachelor of Engineering in Computer Science 
+Rural Engineering College, Hulkoti | 2020 - 2024 | CGPA: 7.77  
+Pre-University Course 
+B.G.S Science PU College, Dharwad | 2018 - 2020 | Percentage: 74% 
+Secondary School Leaving Certificate 
+J.S.S High School, Suttur | 2017 - 2018 | Percentage: 84% 
+ TECHNICAL SKILLS 
+Programming Languages: Java, Python (Basics) 
+Frameworks & Tools: Spring Boot 
+Web Technologies: HTML, CSS, 
+Database Management: SQL, MySQL 
+Software Development: Object-Oriented Programming (OOP), Multithreading, and Exception 
+Handling. 
+Soft Skills: Teamwork, Adaptability, Problem-Solving, Time Management, Continuous Learning 
+PROJECTS 
+Hotel Management System 
+  Developed a Java-based database management system (DBMS) to handle hotel operations 
+including reservations, guest details, billing, and inventory. 
+Tech Stack: Java, MySQL, HTML, CSS  
+Lip Reading Using Deep Learning 
+Built a deep learning model to interpret spoken words based on lip movement recognition. 
+Enhanced communication accessibility for individuals with hearing impairments. 
+Tech Stack: Python, Deep Learning Models 
+Food Delivery Application  
+Developed a full-stack web application for online food ordering. 
+Tech Stack: Java, Spring Boot, MySQL, HTML, CSS, JavaScript 
+ 
+INTERNSHIP EXPERIENCE 
+Tech Fortune | Machine Learning Intern 
+Bengaluru, India | Aug 2023 - Sept 2023 
+Developed a road accident analysis model using machine learning in Python. 
+Utilized Pandas, NumPy, and Matplotlib for analyzing accident trends and visualizing insights. 
+Gained experience in data analytics, accident trend prediction, and model evaluation for 
+improving road safety measures. 
+CERTIFICATIONS 
+Java Full Stack Web Development – Tap Academy 
+Web Development Bootcamp – Udemy 
+ACHIEVEMENTS & EXTRA-CURRICULAR ACTIVITIES 
+Codefiesta Hackathon – Participated in a coding competition in Lakshmeshwar. 
+Developed a Food Delivery Web Application as a self-initiated project. 
+LANGUAGES 
+English: Intermediate 
+Kannada: Native or Bilingual Proficiency 

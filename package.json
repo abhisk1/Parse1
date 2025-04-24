@@ -1,0 +1,17 @@
+{
+  "name": "parse1",
+  "version": "1.0.0",
+  "main": "pdfJson.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "pdf-parse": "^1.1.1",
+    "pdfjs-dist": "^5.1.91"
+  }
+}
