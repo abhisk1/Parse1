@@ -10,8 +10,12 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "fs": "^0.0.1-security",
     "lodash": "^4.17.21",
+    "path": "^0.12.7",
     "pdf-parse": "^1.1.1",
-    "pdfjs-dist": "^5.1.91"
+    "pdf.js-extract": "^0.2.1",
+    "pdfjs-dist": "^5.1.91",
+    "tabula-js": "^1.0.1"
   }
 }
